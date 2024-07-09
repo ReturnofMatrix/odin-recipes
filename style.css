@@ -1,11 +1,34 @@
 .text{
-    font-size:40px;
+    color : white;
+    background-color:black;
+}
+.ingre{
+    background-color:rgb(186, 102, 231);
+    color:blue;
+    text-align:center;
+    font-weight:bold;
+    font-size:20;
+}
+.steps{
+    background-color:rgb(236, 105, 105);
+    color:rgb(9, 19, 9);
+    font-weight:bold;
+    text-align:center;
 }
 .big{
     font-size:30px;
     color:red;
     font-family:"Times New Roman", sans-serif;
 }
-#thindi{
+/* #thindi{
     color:green;
+} */
+#title1{
+    color:rgb(9, 108, 17);
+    font-size:30px;
+    text-align:center;
+}
+.title2 {
+    font-size:20px;
+    color:rgb(78, 18, 139);
 }
